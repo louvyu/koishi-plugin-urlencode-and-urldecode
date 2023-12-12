@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-urlencode-and-urldecode?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-urlencode-and-urldecode)
 
-url解码与编码。这是作者第一次写js代码，如果使用有问题，请多多包涵。bug可以在issues里反馈给我QwQ。
+**url解码与编码。** 这是作者第一次写js代码，如果使用有问题，请多多包涵。bug可以在issues里反馈给我QwQ。
 # 食用方法
 编码：url编码 <需要编码的文本>  
 ![image](https://github.com/louvyu/louvry-blog-/blob/master/louvry%E5%9B%BE%E5%BA%8A/url%E7%BC%96%E7%A0%81%E7%A4%BA%E8%8C%83.1c4al0aru7ls.png)  
