@@ -1,0 +1,32 @@
+{
+  "name": "koishi-plugin-urlencode-and-urldecode",
+  "description": "url编码与解码 0.2.1版本修复了解码带‘%’的非url编码文本时会报错的问题",
+  "version": "0.2.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "author": {
+    "name": "louvry",
+    "url": "https://github.com/louvyu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/louvyu/koishi-plugin-urlencode-and-urldecode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/louvyu/koishi-plugin-urlencode-and-urldecode/issues"
+  },
+  "homepage": "https://github.com/louvyu/koishi-plugin-urlencode-and-urldecode.md",
+  "peerDependencies": {
+    "koishi": "^4.15.7"
+  }
+}
