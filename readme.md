@@ -13,3 +13,5 @@
 ![image](https://github.com/louvyu/louvry-blog-/blob/master/louvry%E5%9B%BE%E5%BA%8A/url%E8%A7%A3%E7%A0%81%E6%A0%BC%E5%BC%8F%E9%94%99%E8%AF%AF1.1eylj4elzlkw.png)  
 自0.2.1版本起，带"%"的非url编码文本不会报"遇到未知错误"了  
 ![image](https://github.com/louvyu/louvry-blog-/blob/master/louvry%E5%9B%BE%E5%BA%8A/url%E8%A7%A3%E7%A0%81%E6%A0%BC%E5%BC%8F%E9%94%99%E8%AF%AF2.9hzczsfswzg.png)  
+0.2.5版本，使用带"%"的非url编码文本的提示词更改  
+![image](https://github.com/louvyu/louvry-blog-/blob/master/louvry%E5%9B%BE%E5%BA%8A/v0.2.5%E6%BC%94%E7%A4%BA.ehog221sv9k.webp)  
