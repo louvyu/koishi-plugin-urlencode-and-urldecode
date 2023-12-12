@@ -20,7 +20,7 @@ export function apply(ctx: Context) {
     }
     }
     catch(err) {
-      return "格式不对哦~";
+      return "不是文本中带‘%’的格式就对啦";
   }   
   });
 ctx.command("url编码 <enperson:string>")
